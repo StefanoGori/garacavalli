@@ -10,7 +10,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Mirko
+ * @author stefa
  */
 public class GaraCavalli extends JFrame {
     int posizione;

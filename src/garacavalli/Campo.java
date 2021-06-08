@@ -8,7 +8,7 @@ import java.awt.*;
 import javax.swing.*;
 /**
  *
- * @author Mirko
+ * @author stefa
  */
 public class Campo extends JPanel {  //pannello campo
     public void paint(Graphics ca){

@@ -7,7 +7,7 @@ package garacavalli;
 
 /**
  *
- * @author Mirko
+ * @author stefa
  */
 public class CavalliInGara implements Runnable {
     Cavallo cavallo;

@@ -8,7 +8,7 @@ import java.awt.*;
 import javax.swing.*;
 /**
  *
- * @author Mirko
+ * @author stefa
  */
 public class Cavallo extends JPanel {
     int cordx;
